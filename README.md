@@ -20,7 +20,6 @@ Tech Stack
 	•	TypeScript
 	•	React Context API
 	•	CSS (Custom Premium Styling)
-	•	Vercel (Deployment)
 
 Setup Instructions
 	•	Clone the repository: git clone <https://github.com/SaniyaParveenCode/nova.git>
