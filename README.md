@@ -26,7 +26,7 @@ Tech Stack
 	•	Vercel (Deployment)
 
 Setup Instructions
-	•	Clone the repository: git clone <repository-url>
+	•	Clone the repository: git clone <https://github.com/SaniyaParveenCode/nova-commerce.git>
 	•	Navigate to the project folder: cd ecommerce-frontend
 	•	Install dependencies: npm install
 	•	Run the development server: npm run dev
