@@ -4,9 +4,6 @@ Modern E-Commerce Frontend | Built with Next.js 14 (App Router)
 Project Overview
 Nova Commerce is a fully responsive e-commerce frontend application built using Next.js (App Router) and TypeScript. This project demonstrates clean architecture, modern UI design principles, dynamic routing, and state management using React Context API. It is structured as a production-ready frontend suitable for real-world deployment.
 
-Live Demo
-Deployed on Vercel. (Insert your deployed Vercel URL here)
-
 Key Features
 	•	Product Listing Page with Pagination
 	•	Search Functionality (Debounced API calls)
